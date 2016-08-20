@@ -11,6 +11,10 @@ color:
     - '#FED49C'
     - '#9B6B00'
 layout_spectrum: 0.25891610351391137
+author:
+  name: Lakis Polycarpou
+  email: lpolycarpou1@gmail.com
+  url: ''
 name: City of the Future
 title: City of the Future
 description: 'Utopia, Dystopia, Apocalypse'
