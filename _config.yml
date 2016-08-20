@@ -1,4 +1,5 @@
-typography_spectrum: 0.23925092117860913
+layout_spectrum: 0.5254088877700269
+typography_spectrum: 0.08429671148769557
 color:
   brandStrength: 0.6144849800039083
   lightness: 0.9858066563028842
@@ -10,7 +11,6 @@ color:
     - '#FAFAFA'
     - '#FED49C'
     - '#9B6B00'
-layout_spectrum: 0.25891610351391137
 author:
   name: Lakis Polycarpou
   email: lpolycarpou1@gmail.com
